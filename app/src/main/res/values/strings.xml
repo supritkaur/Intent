@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="Next_Page">Next Page</string>
+    <string name="String">String</string>
+    <string name="Number">Number</string>
+    <string name="Character">Character</string>
+    <string name="Double">Double</string>
+    <string name="Long">Long</string>
+    <string name="Float">Float</string>
+    <string name="Boolean">Boolean</string>
+
+</resources>
